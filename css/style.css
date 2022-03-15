@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(218, 23%, 16%);
+}
+.tam{
+    height: 90vh;
+}
+.cardAdvice{
+    background-color: hsl(217, 19%, 24%);
+    border-radius: 5px;
+    box-shadow: inset;
+    width: 35vw;
+    height: 45vh;
+}
+.fontC{
+    color: white;
+    font-weight: bolder;
+    font-family: 'Manrope', sans-serif;
+    width: 15vw;
+    height: 15vh;
+}
+.fontA{
+    color: hsl(150, 100%, 66%);
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.butt{
+    background-color: hsl(150, 100%, 66%);
+    position:absolute;
+    top:63%;
+    left:47.3%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+}
+.butt:hover{
+    background-color: aqua;
+}
